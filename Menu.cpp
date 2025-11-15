@@ -21,7 +21,7 @@ Menu::~Menu() = default;
 
 bool Menu::initialize()
 {
-    if (font.loadFromFile("font.ttf"))
+    if (font.loadFromFile("assets/font.ttf"))
     {
         fontLoaded = true;
         setupUI();

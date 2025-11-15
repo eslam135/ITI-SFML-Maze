@@ -19,12 +19,12 @@ Player::Player(float x, float y, float cellSize) : position(x, y)
     , frameHeight(0)
     , facingRight(true)
 {
-    if (!idleTexture.loadFromFile("Soldier-Idle.png"))
+    if (!idleTexture.loadFromFile("assets/Soldier-Idle.png"))
     {
         cerr << "Failed to load Soldier-Idle.png" << endl;
     }
     
-    if (!walkTexture.loadFromFile("Soldier-Walk.png"))
+    if (!walkTexture.loadFromFile("assets/Soldier-Walk.png"))
     {
         cerr << "Failed to load Soldier-Walk.png" << endl;
     }

@@ -48,7 +48,7 @@ bool Game::initialize()
         return false;
     }
     
-    if (font.loadFromFile("font.ttf"))
+    if (font.loadFromFile("assets/font.ttf"))
     {
         fontLoaded = true;
     }

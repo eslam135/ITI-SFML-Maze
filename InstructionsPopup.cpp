@@ -13,7 +13,7 @@ InstructionsPopup::~InstructionsPopup() = default;
 
 bool InstructionsPopup::initialize()
 {
-    if (font.loadFromFile("font.ttf"))
+    if (font.loadFromFile("assets/font.ttf"))
     {
         fontLoaded = true;
         setupUI();

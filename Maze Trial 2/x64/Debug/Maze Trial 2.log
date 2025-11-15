@@ -1,0 +1,167 @@
+﻿  Cell.cpp
+  Game.cpp
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,67): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(35,51): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,64): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(37,48): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,56): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(38,40): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,61): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Game.cpp(678,47): warning C4244:         ]
+  Goal.cpp
+  InstructionsPopup.cpp
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,54): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(28,40): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,54): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\InstructionsPopup.cpp(132,40): warning C4244:         ]
+  Maze.cpp
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(14,65): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(14,65): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(14,65): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(14,65): warning C4244:             _Rep=__int64
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(14,65): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(198,68): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(198,68): warning C4267:         with
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(198,68): warning C4267:         [
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(198,68): warning C4267:             _Ty=int
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(198,68): warning C4267:         ]
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(237,63): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(237,63): warning C4267:         with
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(237,63): warning C4267:         [
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(237,63): warning C4267:             _Ty=int
+C:\Users\User\source\repos\Maze Trial 2\Maze.cpp(237,63): warning C4267:         ]
+  Menu.cpp
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,57): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:             T=unsigned int
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:         and
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(41,43): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,69): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,69): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,69): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,69): warning C4244:         ]
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,48): warning C4244:         with
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,48): warning C4244:         [
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,48): warning C4244:             T=float
+C:\Users\User\source\repos\Maze Trial 2\Menu.cpp(171,48): warning C4244:         ]
+  PathFinder.cpp
+  Player.cpp
+  Source.cpp
+  Generating Code...
+  Maze Trial 2.vcxproj -> C:\Users\User\source\repos\Maze Trial 2\x64\Debug\Maze Trial 2.exe
+  C:\Users\User\source\repos\Maze Trial 2\assets\block1.png
+  C:\Users\User\source\repos\Maze Trial 2\assets\font.ttf
+  C:\Users\User\source\repos\Maze Trial 2\assets\Soldier-Idle.png
+  C:\Users\User\source\repos\Maze Trial 2\assets\Soldier-Walk.png
+  4 File(s) copied
